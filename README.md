@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MridulikaS 
-- 👀 I’m interested in learning new technology and like to solve problems applying different techmniques.
+- 👀 I’m interested in learning new technology and like to solve problems applying different techniques.
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on data science projects
+- 💞️ I’m looking to collaborate on data science projects.
 - 📫 How to reach me : Email: singh.mridulika@gmail.com
 
 <!---
